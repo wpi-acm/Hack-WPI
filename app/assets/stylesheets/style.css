@@ -57,6 +57,10 @@ footer.page-footer {
 }
 
 
+.parallax img {
+  display: inherit
+}
+
 
 #mlh-trust-badge {
     display: block;
