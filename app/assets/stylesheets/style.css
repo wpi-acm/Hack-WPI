@@ -45,6 +45,14 @@ p {
   }
 }
 
+#registration-banner {
+  min-height: 150px;
+}
+
+#registration-banner .section{
+  top: auto;
+}
+
 .icon-block {
   padding: 0 15px;
 }
