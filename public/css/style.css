@@ -37,11 +37,24 @@ p {
   #index-banner .section {
     top: 10%;
   }
+  #cocbutton {
+    visibility: hidden;
+  }
 }
 
 @media only screen and (max-width : 600px) {
+  .parallax-container .section {
+    height: auto;
+    overflow: auto;
+  }
+  .container {
+      height: auto;
+  }
   #index-banner .section {
     top: 0;
+  }
+  #cocbutton {
+    visibility: hidden;
   }
 }
 
