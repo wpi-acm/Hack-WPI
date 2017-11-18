@@ -19,6 +19,10 @@ p {
   color: #26a69a;
 }
 
+.sub-button {
+  margin-top: 5px;
+}
+
 .parallax-container {
   min-height: 380px;
   line-height: 0;
@@ -31,14 +35,10 @@ p {
 
 @media only screen and (max-width : 992px) {
   .parallax-container .section {
-    position: absolute;
     top: 40%;
   }
   #index-banner .section {
     top: 10%;
-  }
-  #cocbutton {
-    visibility: hidden;
   }
 }
 
@@ -52,9 +52,6 @@ p {
   }
   #index-banner .section {
     top: 0;
-  }
-  #cocbutton {
-    visibility: hidden;
   }
 }
 
