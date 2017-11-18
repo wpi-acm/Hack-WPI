@@ -15,6 +15,14 @@ p {
   line-height: 2rem;
 }
 
+#logo-container {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  height: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
 .button-collapse {
   color: #26a69a;
 }
