@@ -2,6 +2,7 @@
 Design documents for HackWPI 2018
 
 ## Preview
+
 ![Home](home.jpg)
 
 ## Editing
