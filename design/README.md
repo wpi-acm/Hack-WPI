@@ -5,6 +5,8 @@ Design documents for HackWPI 2018
 
 ![Home](Home.jpg)
 
+![Day of](Day-of.jpg)
+
 ## Editing
 
 You need a Mac with [Sketch](https://www.sketchapp.com) installed to open the document.
