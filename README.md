@@ -63,7 +63,7 @@ When contributing to this repository, please first discuss the change you wish t
 
 - **Linh Hoang** - *Initial work* - [anhmiuhv](https://github.com/anhmiuhv)
 
-- **Binam Kayastha** - *Update content* - [binamkayastha](https://github.com/binamkayastha)
+- **Binam Kayastha** - *Develop registration system* - [binamkayastha](https://github.com/binamkayastha)
 
 - **MaryAnn VanValkenburg** - *Edit homepage* - [mvanva](https://github.com/mvanva)
 
