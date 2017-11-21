@@ -7,6 +7,8 @@ Design documents for HackWPI 2018
 
 ![Day of](Day-of.jpg)
 
+![Map](Map.jpg)
+
 ## Editing
 
 You need a Mac with [Sketch](https://www.sketchapp.com) installed to open the document.
