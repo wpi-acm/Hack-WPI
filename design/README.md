@@ -9,6 +9,12 @@ Design documents for HackWPI 2018
 
 ![Map](Map.jpg)
 
+![Schedule](Schedule.jpg)
+
+![Prizes](Prizes.jpg)
+
+![Hardwares](Hardwares.jpg)
+
 ## Editing
 
 You need a Mac with [Sketch](https://www.sketchapp.com) installed to open the document.
@@ -29,4 +35,4 @@ When contributing to this repository, please first discuss the change you wish t
 - **Yang Liu** - *Initial work* - [byliuyang](https://github.com/byliuyang)
 
 ## License
-This design document is licensed under the Creative Commons 4.0 - see the [LICENSE.md](LICENSE.md) file for details
+This design document is licensed under the General Public License 3.0 - see the [LICENSE.md](LICENSE.md) file for details
